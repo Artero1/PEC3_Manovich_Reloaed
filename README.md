@@ -1,7 +1,7 @@
 # PEC3_Manovich_Reloaed
 ## REPTE-ACTIVITAT 3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
-### Recurso de aprendizaje de Cultura Digital 
+### Recurs d'aprenentatge de Cultura Digital
 
 
 Autor: Roger Artero Ortega
