@@ -1,12 +1,13 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3_Manovich_Reloaed
+## REPTE-ACTIVITAT 3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Roger Artero Ortega
 
 
-Fecha: 
+L'objectiu d'aquesta PAC és realitzar un assaig sobre dos casos d'hibridació moderna.
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
