@@ -35,7 +35,7 @@ Per altra banda, si vols utilitzar aquest servei per l’oci o entreteniment per
 
 [![Alt text](https://img.youtube.com/vi/RnX8DLmjkCA/0.jpg)](https://www.youtube.com/watch?v=RnX8DLmjkCA)
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descobrint la hibridació: Caso 2
 ### El tresor de medusa – Museu de Lleida
 
 En aquest segon cas d'hibridació parlarem d'un joc que vaig dur a terme junt amb 5 integrants més del curs CFGS d'animacions 3D, joc i entorns interactius.
@@ -56,7 +56,7 @@ Per una banda, el museu en treu benefici i, per altra banda, els alumnes de l'Il
 
 A més l'objectiu del museu en part era que les visites de l'exposició que fan les escoles fossin més divertides i entretingudes perquè els nens més petits entenguin l'exposició i mitjançant aquesta hibridació amb el videojoc ho van fer possible, ja que, els alumnes jugaven al joc i estaven atents a tot el que se'ls hi explicava en aquest que a l'hora era part de la història de l'exposició.
 
-### Referencias y Bibliografía
+### Referencies i Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Google Earth Blog. *Google Earth Flight Simulator Tutorial*[vídeo en línea].2015 [consulta: 02 de decembre de 2021].
