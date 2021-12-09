@@ -57,8 +57,7 @@ Per una banda, el museu en treu benefici i, per altra banda, els alumnes de l'Il
 A més l'objectiu del museu en part era que les visites de l'exposició que fan les escoles fossin més divertides i entretingudes perquè els nens més petits entenguin l'exposició i mitjançant aquesta hibridació amb el videojoc ho van fer possible, ja que, els alumnes jugaven al joc i estaven atents a tot el que se'ls hi explicava en aquest que a l'hora era part de la història de l'exposició.
 
 ### Referencies i Bibliografía
-
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* ANDRO4ALL [en línea] [consulta: 28 de novembre de 2021]. Disponible en: https://andro4all.com/guias/google/google-earth-incluye-su-propio-flight-simulator-asi-puedes-usarlo
 * Google Earth Blog. *Google Earth Flight Simulator Tutorial*[vídeo en línea].2015 [consulta: 02 de decembre de 2021].
 * Disponible en: https://www.youtube.com/watch?v=RnX8DLmjkCA
-* ANDRO4ALL [en línea] [consulta: 28 de novembre de 2021]. Disponible en: https://andro4all.com/guias/google/google-earth-incluye-su-propio-flight-simulator-asi-puedes-usarlo
+* Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
