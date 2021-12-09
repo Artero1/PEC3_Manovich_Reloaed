@@ -1,4 +1,4 @@
-# PEC3_Manovich_Reloaed
+# PAC3_Manovich_Reloaed
 ## REPTE-ACTIVITAT 3. Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
 ### Recurs d'aprenentatge de Cultura Digital
@@ -31,7 +31,9 @@ Per altra banda, si vols utilitzar aquest servei per l’oci o entreteniment per
 -	És convenient que l’usuari face servir la brúixola que Google Earth proporciona. Així també prenent nota de la latitud i longitud exactes dels destins.
 -	Aterrar l’avió amb una velocitat entre 70 i 160 mph.
 
+*Videotutorial per fer servir el flight simulator de Google Earth.*
 
+[![Alt text](https://img.youtube.com/vi/RnX8DLmjkCA/0.jpg)](https://www.youtube.com/watch?v=RnX8DLmjkCA)
 
 ## Re-descubriendo la hibridacion: Caso 2
 ### El tresor de medusa – Museu de Lleida
@@ -57,3 +59,6 @@ A més l'objectiu del museu en part era que les visites de l'exposició que fan 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Google Earth Blog. *Google Earth Flight Simulator Tutorial*[vídeo en línea].2015 [consulta: 02 de decembre de 2021].
+* Disponible en: https://www.youtube.com/watch?v=RnX8DLmjkCA
+* ANDRO4ALL [en línea] [consulta: 28 de novembre de 2021]. Disponible en: https://andro4all.com/guias/google/google-earth-incluye-su-propio-flight-simulator-asi-puedes-usarlo
