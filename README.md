@@ -13,16 +13,14 @@ L'objectiu d'aquesta PAC és realitzar un assaig sobre dos casos d'hibridació m
 
 
 
-## Planteamiento
+### Re-descobrint la hibridació: Cas 1
 
+## Flight Simulator by Google Earth
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Google Earth és un sistema d'informació geogràfica desenvolupat per la companyia Google que com bé indica el nom mostra el globus terraqüi. Per mostrar aquest globus terraqüi Google es basa en la composició mitjançant superposició d'imatges obtingudes per imatges satèl·lit i fotografies aèries.
+El 20 d'agost de 2007 Google Earth va llançar una nova versió del seu programari, en aquesta ja es podia accedir al simulador de vol. Aquest simulador igual que Google Earth utilitza imatges satèl·lit per generar el terreny per així aconseguir una experiència molt més realista. Pots accedir al simulador amb les tecles Ctrl + Alt + A. Un cop hagis activat aquesta opció una vegada, es quedarà l'opció sota el menú d'eines.
 
-
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png)
 
 
 ## Re-descubriendo la hibridacion: Caso 2
